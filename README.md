@@ -1,2 +1,2 @@
 # WeatherCraft
-A simple weather app that tells you the climate in cities the world over
+A simple app that tells you all about the weather in cities the world over!
